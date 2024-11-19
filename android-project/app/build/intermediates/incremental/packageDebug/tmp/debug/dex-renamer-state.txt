@@ -1,0 +1,4 @@
+#Mon Nov 18 22:45:51 MST 2024
+base.0=/home/skinny/Common/SDL_Droid_Starter/android-project/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

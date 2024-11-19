@@ -1,0 +1,2 @@
+/home/skinny/Common/SDL_Droid_Starter/android-project/app/jni/Android.mk
+/home/skinny/Common/SDL_Droid_Starter/android-project/app/jni/Application.mk
